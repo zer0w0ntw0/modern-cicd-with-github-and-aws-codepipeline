@@ -13,6 +13,10 @@ Key features include:
 - Integration with AWS DynamoDB for data persistence
 - Deployment automation using AWS App Runner
 
+## Workshop Catalog
+
+[Catalog](https://catalog.us-east-1.prod.workshops.aws/workshops/bb34ebd3-e04f-4614-875d-7ed328f4bd26/en-US)
+
 ## Repository Structure
 
 ```
